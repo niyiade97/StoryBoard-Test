@@ -1,9 +1,6 @@
 import React from 'react'
 import BackDrop from '../customElements/BackDrop'
 import { IoIosClose } from 'react-icons/io';
-import Input from '../customElements/Input';
-import Upload from '../customElements/Upload';
-
 const EditSiteTemplate = (props) => {
   
   return (

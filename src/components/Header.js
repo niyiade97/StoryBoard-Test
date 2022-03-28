@@ -7,7 +7,7 @@ import { MdKeyboardArrowDown } from 'react-icons/md';
 export const Header = () => {
 
   return (
-    <div className='w-full bg-white fixed top-0 left-0'>
+    <div className='w-full bg-white fixed top-0 2xl:max-w-2000 2xl:mx-auto'>
         <div className='w-95 mx-auto flex items-center justify-between h-20'>
             <Link to="/">
                 <img src={logo} alt="storyboard-logo" className='cursor-pointer' />

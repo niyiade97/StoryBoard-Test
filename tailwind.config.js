@@ -13,6 +13,9 @@ module.exports = {
       minWidth: {
         '1024': '1024px',
       },
+      maxWidth: {
+        '2000': '2000px',
+      },
       colors: {
         'color1': '#E7E6E6',
         'color2': 'rgba(24, 24, 27, 0.92)',
